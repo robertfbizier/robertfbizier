@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there
+My name is Robert Francisco Bizier.
+I am currently working as a fund servicing analyst at JP Morgan Chase in Boston. I recently earned a certificate from the MIT Schwarzman College of Computing through the Institute for Data, Systems, and Society. I am looking to expand my skills in the world of computer and data science. 
 
+On this page you will find some of the projects I am most proud of completing.
+
+You can reach me at the below email:
+robertfranciscobizier@gmail.com
 <!--
 **robertfbizier/robertfbizier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
