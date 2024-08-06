@@ -6,6 +6,9 @@ On this page you will find some of the projects I am most proud of completing.
 
 You can reach me at the below email:
 robertfranciscobizier@gmail.com
+
+
+THank you!
 <!--
 **robertfbizier/robertfbizier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
