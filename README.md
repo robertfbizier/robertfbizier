@@ -8,7 +8,7 @@ You can reach me at the below email:
 robertfranciscobizier@gmail.com
 
 
-THank you!
+Thank you!
 <!--
 **robertfbizier/robertfbizier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
